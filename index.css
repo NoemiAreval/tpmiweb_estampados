@@ -1,6 +1,22 @@
-body {
-    background: rgb(231, 186, 186)
+body
+{
+    background-color: rgb(235, 223, 223)
 }
-pages {
-    background-color: rgb(88, 204, 165)
+.navbar
+{
+    background-color: rgb(205, 205, 216)
+}
+ul
+{
+    background-color: antiquewhite 
+}
+.page
+{
+     margin: 25px;
+}
+h1{
+    color: brown;
+}
+p{
+    color: rgb(61, 10, 61)
 }
